@@ -1,0 +1,8 @@
+0 User=Admin;Pass=1234;
+1 User=Ako;Pass=1231;
+2 User=Akin;Pass=rewr;
+3 User=Kanya;Pass=sdfd;
+4 User=Siya;Pass=sdfs;
+5 User=Weh;Pass=sdfd;
+6 User=OoNga;Pass=hdds;
+7 User=Guest;Pass=dfgg;

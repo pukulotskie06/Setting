@@ -1,0 +1,10 @@
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.pdb
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\bin\Debug\Settings.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.SettingsForm.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.Resources.resources
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.vbproj.GenerateResource.Cache
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.exe
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.xml
+c:\users\pukulot\documents\visual studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.pdb
+C:\Users\pukulot\Documents\Visual Studio 2010\Projects\Settings\Settings\obj\x86\Debug\Settings.AddNewUserForm.resources
